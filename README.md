@@ -1,2 +1,2 @@
 # React-ToDoList
-Created with CodeSandbox
+Finished To Do List project made with React.js
